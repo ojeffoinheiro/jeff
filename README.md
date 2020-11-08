@@ -18,8 +18,7 @@
   </p>
 
 # Technologies :computer:
-This project was developed with the following technologies:
-- [Typescript](typescriptlang.org/)
+This project was developed with the following technologie:
 - [React Native](https://reactnative.dev)
 ---
 
