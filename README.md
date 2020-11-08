@@ -1,6 +1,6 @@
 <h1 align="center">
   Acertei?
-  
+    <img alt="Happy" title="JeffBanck" src="https://user-images.githubusercontent.com/60162736/98482242-d54d4780-21de-11eb-9aa7-22e81a200f89.png">
 </h1>
 
 <div align="center"></div>
@@ -14,7 +14,7 @@
 
 # Overview :book:
  <p>
-  Recreating the Spotify interface.
+  App designed to riddle a number.
   </p>
 
 # Technologies :computer:
@@ -29,19 +29,19 @@ This project was developed with the following technologies:
 ## Precondition :white_flag:
 You should have:
 - NodeJS
-- Package manager (NPM ou Yarn)
+- NPM
 
 ## Clone this repository
 ```bash
-$ git clone https://github.com/ojeffoinheiro/spotify-clone.git
+$ git clone https://github.com/ojeffoinheiro/taref.git
 ```
 ## Go into the repository
 ```bash
-$ cd spotify-clone
+$ cd jeff
 ```
 ## Install the dependencies
 ```bash
-yarn install
+npm i
 ```
 ## Run :iphone:
 Run the application (iOS)
